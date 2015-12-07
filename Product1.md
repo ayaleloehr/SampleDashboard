@@ -32,8 +32,8 @@ COMPLETED ALL DISCOVERY TASKS | Yes | Green |
 
 
 ###Design/Develop Prototype (Alpha)
-Task | Status | Comments (only if yellow or red)
------------- | ------------- | -------------
+Task | Completed | Status | Comments (only if yellow or red)
+------------ | ------------- | ------------- | -------------
 Develop mockups and review w/ integrated product team | No | Green | 
 Begin content rewrite and concurrence process | Yes | Green | 
 Update vets.gov information architecture (as needed) | | N/A | 
