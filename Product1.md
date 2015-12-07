@@ -4,17 +4,17 @@
 **Start Date: 01/01/2016**
 
 ###Product Definition
-Task | Status | Comments (only if yellow or red)
------------- | ------------- | ------------- 
-Identify VA business owner | Complete | 
-Identify integrated product team members | Complete | 
-Conduct a kickoff meeting | Complete | 
-Define business goals | Complete | 
-Identify risks and constraints | Complete | 
-Draft a product charter / MOU  | Complete| 
-Complete a SIGNED charter / MOU | Complete | 
-Complete internal team product team set up items (slack channel, GitHub repo, sprint schedule, etc.)  | Complete | 
-COMPLETED ALL INITIATION TASKS | Complete | 
+Task                                              | Status   | Comments (only if yellow or red)
+------------                                      | -------- | ------------- 
+Identify VA business owner                        | Complete | 
+Identify integrated product team members          | Complete | 
+Conduct a kickoff meeting                         | Complete | 
+Define business goals                             | Complete | 
+Identify risks and constraints                    | Complete | 
+Draft a product charter / MOU                     | Complete | 
+Complete a SIGNED charter / MOU                   | Complete | 
+Complete internal team product team set up items  | Complete | 
+COMPLETED ALL INITIATION TASKS                    | Complete | 
 
 
 ###Discovery
@@ -22,7 +22,7 @@ Task | Status | Comments (only if yellow or red)
 ------------ | ------------- | -------------
 Document baseline / as-is Google analytics metrics  | Complete | 
 Inventory of required content and search keywords | Complete | 
-Conduct technical discovery (security, technical, architecture, data, etc.) | Complete | 
+Conduct technical discovery (security, technical, data, etc.) | Complete | 
 Define feature requirements | Complete | 
 Design information architecture | Complete | 
 Develop communication / change management plan |  Green | 
