@@ -11,7 +11,7 @@ Identify product team members                     | Complete |
 Conduct a kickoff meeting                         | Complete | 
 Draft a product charter / MOU                     | Complete | 
 Complete a SIGNED charter / MOU                   | Complete | 
-COMPLETED ALL INITIATION TASKS                    | Complete | 
+COMPLETED ALL INITIATION TASKS                    | Completed | 
 
 
 ###Discovery
