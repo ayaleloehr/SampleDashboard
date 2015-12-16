@@ -6,6 +6,6 @@ Project Definition | Yes | Green |
 Discovery | Yes | Green | 
 Alpha Release | No | Red | 
 Beta Release | No | Red | 
-Pre-Flight ||
+Pre-Flight |Yes |
 Go Live ||
 Sunset ||
